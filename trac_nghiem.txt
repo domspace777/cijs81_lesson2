@@ -1,0 +1,13 @@
+C1 - false
+C2 - true
+C3 - true
+C4 - 3. {foo: 1, bar: 2}
+C5 - 2. SynaxError
+C6 - 1. undefined
+C7 - 4. Error 
+C8 - 2. [1, 23, 4]
+C9 - 1. gia tri cua bieu thuc la 3
+C10 - 2. a = 3, b = 12
+C11 - 3. Error
+C12 - 2. [2, 2, 6, 4, 10]
+C13 - 4. 16
